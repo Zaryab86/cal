@@ -1,0 +1,2 @@
+print(zaryab)
+print(24-st-002)
